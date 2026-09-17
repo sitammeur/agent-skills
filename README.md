@@ -1,11 +1,31 @@
-# Nimble Web Search Skills & Plugin
+<div align="center">
+
+<a href="https://www.nimbleway.com" target="_blank">
+  <img
+    alt="Nimble logo"
+    src="https://cdn.prod.website-files.com/699c65d475d592ff4cf972a8/699c65d475d592ff4cf97d2d_nimble-logo_black.svg"
+    width="400"
+  >
+</a>
+
+## The open-source skills layer that gives any AI agent live access to the web
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.7.0-green)](https://github.com/Nimbleway/agent-skills)
+[![npm](https://img.shields.io/npm/v/@nimble-way/nimble-cli?label=cli)](https://www.npmjs.com/package/@nimble-way/nimble-cli)
+[![Documentation](https://img.shields.io/badge/docs-nimbleway.com-blue)](https://docs.nimbleway.com)
 
-Unlock the web for your AI agents — search, scrape, extract structured data, and run business intelligence workflows, all powered by Nimble's web data infrastructure. One plugin for Claude Code, Cursor, and any platform that supports the [Agent Skills spec](https://agentskills.io/specification.md).
+Nimble runs the web data layer (search, scraping, structured extraction, site mapping, crawling, and research agents with citations) and exposes it as 15 one-command skills, a CLI, and an MCP server for Claude Code, Cursor, Codex, Grok, and any platform that supports the Agent Skills spec.
 
-**Agent credential protocol:** see [AUTH.md](AUTH.md) — the file agents read to authenticate to the Nimble API. Served live at https://nimbleway.com/auth.md.
+<!-- <video src=""></video> -->
+
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br
 
 ## Skills
 
