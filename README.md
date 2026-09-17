@@ -15,7 +15,7 @@
 [![npm](https://img.shields.io/npm/v/@nimble-way/nimble-cli?label=cli)](https://www.npmjs.com/package/@nimble-way/nimble-cli)
 [![Documentation](https://img.shields.io/badge/docs-nimbleway.com-blue)](https://docs.nimbleway.com)
 
-Nimble runs the web data layer (search, scraping, structured extraction, site mapping, crawling, and research agents with citations) and exposes it as 15 one-command skills, a CLI, and an MCP server for Claude Code, Cursor, Codex, Grok, and any platform that supports the Agent Skills spec.
+Nimble gives your AI agents live web data. Search, scrape, extract structured data, and run business intelligence workflows against real sites. One-command skills, a CLI, and an MCP server for Claude Code, Cursor, and any platform that supports the Agent Skills spec.
 
 <!-- <video src=""></video> -->
 
@@ -25,7 +25,7 @@ Nimble runs the web data layer (search, scraping, structured extraction, site ma
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Skills
 
